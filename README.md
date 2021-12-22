@@ -3,4 +3,4 @@
 - Some of my interests include mechanical keyboards, crypto and the FIRE movement.
 - I’m currently learning Javascript and working on my skils in Python and HTML.
 - I’m looking to collaborate on a SACE ATAR calculator.
-- You can reach me on <a href="https://www.twitter.com/aftergiowws/">Twitter</a> or <a href="https://www.linkedin.com/in/jasmin-wu-089512204/">Linkedin</a.>
+- You can reach me on <a href="https://www.twitter.com/aftergiowws/">Twitter</a> or <a href="https://www.linkedin.com/in/jasmin-wu-089512204/">Linkedin</a>.
