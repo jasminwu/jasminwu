@@ -1,5 +1,5 @@
 ## Hi there! 
-I’m Jasmin (she/her), a 1st year Computer Science student at UNSW. Mostly interested in backend software engineering and systems programming :)
+I’m Jasmin (she/her), a 2nd year Computer Science student at UNSW. Mostly interested in backend software engineering and systems programming :)
 
 
 <p align="left">
